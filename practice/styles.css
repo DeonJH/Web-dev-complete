@@ -1,0 +1,49 @@
+header {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+    color: rgb(138, 98, 251);
+    font-weight: bold;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+main {
+    padding: 24px;
+    border-radius: 8px;
+    background-color: rgb(138, 98, 251);
+    margin: 100px 500px 50px 500px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(246, 202, 4);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+span {
+    padding: px;
+    background-color: rgb(255, 235, 144);
+    color: black;
+    border-radius: 2px;
+}
+
+#highlight {
+    color: rgb(246, 202, 4);
+}
+
+#copyright {
+    text-align: center;
+    margin: 20px;
+}
